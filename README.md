@@ -12,7 +12,7 @@ I have a vast collection of interest, whether in the field of computer science (
 - I like Linux (any distro)
 - I love dogs ( who doesn't?)
 - 🔭 I’m currently working on my personal website
-- - 🌱 I’m currently learning C#, React, Figma
+- 🌱 I’m currently learning C#, React, Figma
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,aws,python,c,cs,cpp,git)](https://skillicons.dev)
