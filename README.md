@@ -5,7 +5,7 @@ Hello! I'm a first year student at Óbuda University and a backend developer wit
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fresszermate&labelColor=%232ccce4&countColor=%23263759&style=plastic)
 
 Naturally, I have the most experience in web development, especially on the backend side, but i am working to expand my knowledge with React, and more!
-I have a vast collection of interest, whether in the field of computer science (such as DevOps, embedded development, game development as a hobby) or something more offline, like chess, language learning or simply doodling.
+I have a vast collection of interests, whether in the field of computer science (such as DevOps, embedded development, game development as a hobby) or something more offline, like chess, language learning or simply doodling.
 
 ## Some random facts
 - My first language was BASIC
